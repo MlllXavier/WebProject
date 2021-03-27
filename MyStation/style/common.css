@@ -1,0 +1,40 @@
+body,ul,ol,li,dl,dt,dd,p,h1,h2,h3,h4,h5,h6,form,input{
+    padding: 0;
+    margin: 0;
+    color: #ffffff;
+}
+
+a{
+    color: #dddddd;
+}
+
+a:hover{
+    color: #ffffff;
+}
+
+li{
+    list-style-type: none;
+}
+
+img{
+    vertical-align: middle;
+}
+
+.fl{
+    float: left;
+}
+
+.fr{
+    float: right;
+}
+
+.clearfix::after{
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.m-w{
+    width: 1200px;
+    margin: auto;
+}

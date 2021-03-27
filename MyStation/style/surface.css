@@ -1,0 +1,40 @@
+#surface-page{
+    position: relative;
+    width: 100%;
+    height: 938px;
+    background-color: #000000;
+}
+
+#surface-page h2{
+    position: absolute;
+    top: 30%;
+    left: 10%;
+    font-size: 64px;
+}
+
+#surface-page p{
+    position: absolute;
+    top: 50%;
+    left: 10%;
+}
+
+#surface-page img{
+    position: absolute;
+    width: 500px;
+    height: 700px;
+    top: 10%;
+    left: 60%;
+}
+
+#surface-page a i{
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    width: 64px;
+    height: 64px;
+    background: url(../image/展开0.png);
+}
+
+#surface-page a i:hover{
+    background: url(../image/展开.png);
+}

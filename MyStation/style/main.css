@@ -1,0 +1,133 @@
+#main-page{
+    display: none;
+    width: 80%;
+    margin: auto;
+    padding: 0 40px;
+    overflow-x: hidden;
+    min-width: 1200px;
+    background-color: #000000;
+}
+
+.symble li{
+    margin: 60px 120px 30px 120px;
+    width: 128px;
+    height: 128px;
+}
+
+.symble li.first{
+    margin-left: 360px;
+}
+
+.navigation{
+    border: 2px solid #eeeeee;
+}
+
+.navigation li{
+    margin: 10px 40px;
+}
+
+h3{
+    font-size: 60px;
+    margin: 0 50px;
+}
+
+.head{
+    margin-bottom: 50px;
+}
+
+.head p{
+    font-size: 24px;
+    margin-top: 10px;
+}
+
+.head table{
+    margin: 0 50px;
+    text-align: center;
+}
+
+.head table img{
+    width: 300px;
+    height: 200px;
+    margin: 0, auto;
+}
+
+.head li{
+    margin: 40px 0 40px 12px;
+    text-align: center;
+}
+
+.head li img{
+    width: 240px;
+    height: 180px;
+}
+
+.head li h6{
+    font-size: 24px;
+}
+
+.arm{
+    border-top: 2px solid #eeeeee;
+}
+
+.arm p{
+    font-size: 24px;
+    margin: 10px 0;
+}
+
+.arm li h2{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.arm li img{
+    width: 300px;
+    height: 200px;
+    margin: 10px 50px 20px 50px;
+}
+
+.belly{
+    border-top: 2px solid #eeeeee;
+}
+
+.belly h4{
+    margin-left: 20px;
+    font-size: 32px;
+}
+
+.belly li{
+    margin: 40px 0;
+}
+
+.belly a:hover p{
+    color: red;
+}
+
+.belly p{
+    font-size: 32px;
+}
+
+.belly img{
+    width: 400px;
+    height: 200px;
+}
+
+.foot{
+    border-top: 2px solid #eeeeee;
+}
+
+.foot dl{
+    width: 200px;
+    margin-top: 30px;
+}
+
+.foot dt{
+    position: relative;
+    padding: 20px 0;
+    font-size: 13px;
+    color: #666666;
+}
+
+.foot dd{
+    margin-bottom: 10px;
+    font-size: 12px;
+}
